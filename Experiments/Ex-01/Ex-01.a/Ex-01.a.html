@@ -5,6 +5,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            margin: 30px;
         }
         h1, h2, h3 {
             color: #2E4053;
@@ -15,31 +16,48 @@
         table {
             width: 100%;
         }
-	header{
-	display:flex;
-	flex-direction:row;
-	justify-content:space-between;
-align-items:
+        .header {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .contact-details {
+            flex-grow: 1;
         }
         th, td {
             padding: 10px;
             text-align: left;
             border: 2px solid #ddd;
         }
+        .profile-con{
+            width: 150px; /* Fixed width */
+            height: 150px; /* Fixed height */
+            overflow: hidden;
+            border-radius: 50%; /* Circular image */
+            background-image: url('profile_img.jpg');
+            background-size: 200%; /* Zoom effect */
+            background-position: -60px -100px; /* Adjust to focus */
+            background-repeat: no-repeat;
+        }
     </style>
 </head>
 <body>
-<div class="header">
-<div>
-<h1>Rakhul Prakash S B</h1>
-<p>1A/22 Sholinganallur, Chennai, India<br>
-+91-9176262418 <br>
-rakhul2005@gmail.com <br>
-<a href="https://linkedin.com/in/rakhul">linkedin.com/in/rakhul</a> <br>
-<a href="https://github.com/BlackEmpir7199">github.com/BlackEmpir7199</a>
-</p>
-</div>
-<img src="profile-img.jpg"></img>
+    <div class="header">
+        <div class="contact-details">
+            <h1>Rakhul Prakash S B</h1>
+            <p>1A/22 Sholinganallur, Chennai, India<br>
+            +91-9176262418 <br>
+            rakhul2005@gmail.com <br>
+            <a href="https://linkedin.com/in/rakhul">linkedin.com/in/rakhul</a> <br>
+            <a href="https://github.com/BlackEmpir7199">github.com/BlackEmpir7199</a>
+            </p>
+        </div>
+        <div class="profile-con"></div>
+    </div>
 </div>
 
 <h2>Summary</h2>
