@@ -13,9 +13,6 @@ This timetable is designed for:
 - [Header](#header)
 - [Timetable Details](#timetable-details)
 - [Class Schedule](#class-schedule)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🖼️ Header
 
