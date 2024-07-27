@@ -1,0 +1,37 @@
+
+header{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-around;
+}
+
+.title-center{
+    display: flex;
+    text-align: center;
+    flex: 1;
+    flex-direction: row;
+    justify-content: center;
+}
+img{
+    height: 95px;
+    width: 120px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+.title-con{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid black;
+    height: 40px;
+}
+span{
+    color: Red;
+}
