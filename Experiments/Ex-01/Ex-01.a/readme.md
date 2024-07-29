@@ -14,8 +14,6 @@ Welcome to the online resume of Rakhul Prakash S B. This document highlights my 
 
 ## 📞 Contact Information
 
-![Profile Image](profile_img.jpg)
-
 **Rakhul Prakash S B**  
 1A/22 Sholinganallur, Chennai, India  
 📞 +91-9176262418  
@@ -85,4 +83,6 @@ Ambitious Computer Science Engineering student at Rajalakshmi Engineering Colleg
 ## 💡 Usage
 
 To view the resume, open the `Ex-01.a.html` file in your browser.
+
+![screencapture-127-0-0-1-5500-Ex-01-Ex-01-a-Ex-01-a-html-2024-07-27-20_13_47](https://github.com/user-attachments/assets/88264e62-fc1b-4b56-a764-c49238db3d14)
 
