@@ -8,19 +8,23 @@ Welcome to the **Hotspot Locator** project! This interactive web application all
 - **Detailed State Information**: Get insights on area, population, economy, and tourism.
 - **Responsive Design**: Works seamlessly on both desktop and mobile devices.
 
-## 📸 **Screenshot**
-
-![Hotspot Locator Screenshot](./image/India_map.jpg)
-
 ## 🌟 **Tech Stack**
 
 - **HTML**: Structure of the web pages
 - **CSS**: Styling and layout
 
 
-## 🌐 **Demo Image**
+## 📸 **Demo Images**
 
 Check out the Demo Images here.
+
+![image](https://github.com/user-attachments/assets/7114e30e-113b-495b-ab86-69258fcfd142)
+
+![image](https://github.com/user-attachments/assets/159d7bb4-617d-4e6d-8406-e8fad89d40f6)
+
+![image](https://github.com/user-attachments/assets/09344527-664a-412b-a031-6b68d962da98)
+
+![image](https://github.com/user-attachments/assets/81e08af6-d901-461a-abfb-266268bdd53e)
 
 
 ## 📁 **File Structure**
