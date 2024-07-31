@@ -1,9 +1,30 @@
-body{
-    display: flex;
-    flex-direction:column;
-    height: 100vh;
-    justify-content: center;
-    align-items: center;
-    gap: 10;
-    margin: 50;
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    margin: 20px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+map area {
+    cursor: pointer;
+}
+
+ul{
+    border: 1px solid black;
+    padding: 10px;
+    list-style: none;
+    text-align: left;
 }
