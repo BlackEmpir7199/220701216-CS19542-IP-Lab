@@ -40,8 +40,4 @@ This timetable is designed for:
 ## 📅 Class Schedule
 ![image](https://github.com/user-attachments/assets/d19dd598-abeb-4de6-9ff9-3eeeb9e33edc)
 
-<<<<<<< HEAD
-![image](https://github.com/user-attachments/assets/f86d615d-5ce7-49ab-be28-701d6a7cb977)
-=======
->>>>>>> 74e24ef7a27a77b573d3bd432c1f4d266a2d3dd2
 
